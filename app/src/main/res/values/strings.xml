@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MOVIE-GALLERIA</string>
+    <string name="reservoir_dogs_1992">Reservoir dogs (1992)</string>
+    <string name="pulp_fiction_1994">Pulp fiction (1994)</string>
+    <string name="jackie_brown_1997">Jackie Brown (1997)</string>
+    <string name="kill_bill_vol_1_2003">Kill Bill: Vol. 1 (2003)</string>
+    <string name="kill_bill_vol_2_2004">Kill Bill: Vol. 2 (2004)</string>
+    <string name="death_proof_2007">Death Proof (2007)</string>
+    <string name="inglorious_basterds_2009">Inglorious Basterds (2009)</string>
+    <string name="django_unchained_2012">Django Unchained (2012)</string>
+    <string name="the_hateful_eight_2015">The Hateful Eight (2015)</string>
+    <string name="once_upon_a_time_in_hollywood_2019">Once Upon A Time In Hollywood (2019)</string>
+</resources>
